@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f1ab2e2a-45fa-4540-b834-b8955301f050/resourceGroups/pluralsight-demo/providers/Microsoft.Web/sites/pluralsight-demo-dev-01",
+    "appService.deploySubpath": "."
+}
